@@ -8,7 +8,7 @@ Each talk has three Markdown artifacts with the same filename stem:
 - `transcripts/cleaned/` contains conservatively edited transcripts.
 - `transcripts/summaries/` contains an overview and chronological notes.
 
-The source recordings are kept locally in `recordings/` and are not tracked by Git. See `recordings/README.md` for details about the recording manifest, source exports, and missing sessions.
+The source recordings are kept locally in `recordings/` and are not tracked by Git.
 
 ## Development
 

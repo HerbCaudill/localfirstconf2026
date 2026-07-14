@@ -25,5 +25,3 @@ Under `## Overview`, write exactly one concise paragraph. Capture the talk's cen
 Under `## Detailed notes`, narrate the presentation in chronological order. Cover the opening setup, each major idea, the concrete examples and demonstrations, meaningful transitions between sections, and the conclusion. Explain what happened in examples or demos and why the speaker used them when the transcript establishes that connection. Preserve qualifications, uncertainty, and distinctions that affect meaning. Include audience questions only when they contribute substantively to the talk. Use readable paragraphs and informative third-level headings only when they help mark genuine sections of the presentation; do not turn the narrative into a sparse outline.
 
 Be specific enough that someone who did not attend can follow the progression of the talk, but do not pad the notes, repeat the overview, or reconstruct missing material. Attribute ideas to the speaker when needed for clarity rather than presenting them as independently verified facts.
-
-The authoritative talk metadata and transcript follow:
