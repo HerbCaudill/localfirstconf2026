@@ -14,5 +14,3 @@ Output ONLY the cleaned Markdown transcript body. Do not include YAML frontmatte
 - Label a turn `**Presenter:**`, `**MC:**`, or `**Audience:**` only when that role is supported by the transcript or supplied metadata. Do not infer identities from writing style or subject matter. Use `**Unknown speaker:**` when a distinct speaker is evident but their role is not supported.
 - Combine adjacent turns from the same supported speaker role. Preserve separate turns when the speaker changes.
 - When crosstalk makes exact ordering uncertain, favor readable chronology without inventing certainty.
-
-The talk metadata and raw transcript follow:
