@@ -9,27 +9,3 @@ Each talk has three Markdown artifacts with the same filename stem:
 - [transcripts/summaries](transcripts/summaries) contains an overview and chronological notes.
 
 The source recordings are kept locally in `recordings/` and are not tracked by Git.
-
-## Development
-
-Install dependencies with pnpm:
-
-```sh
-pnpm install
-```
-
-Run the tests:
-
-```sh≈
-pnpm test
-```
-
-Generate any missing raw transcripts:
-
-```sh
-pnpm transcribe
-```
-
-Transcription requires FFmpeg, `whisper-cli`, and the whisper.cpp `large-v3-turbo-q5_0` model. Set `WHISPER_MODEL` to use a model outside the default `~/.cache/whisper.cpp/` location.
-
-The processing approach and artifact conventions are documented in `plans/001-transcriptions.md`.
